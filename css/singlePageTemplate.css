@@ -25,6 +25,7 @@ header {
 	background-color: #52bad5;
 	border-bottom: 1px solid #2C9AB7;
 }
+
 .logo {
 	color: #fff;
 	font-weight: bold;
@@ -62,9 +63,17 @@ ul li a {
 ul li:hover a {
 	color: #2C9AB7;
 }
+.circular--square {
+	width: 15%;
+	border-radius: 50%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
 .hero_header {
 	color: #FFFFFF;
 	text-align: center;
+	align-content: center;
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-bottom: 0px;
@@ -305,6 +314,9 @@ footer {
 
 /* Mobile */
 @media (max-width: 320px) {
+	.circular--square {
+		width: 25%;
+	  }
 .logo {
 	width: 100%;
 	text-align: center;
