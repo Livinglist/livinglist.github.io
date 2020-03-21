@@ -370,6 +370,22 @@ nav ul li {
 	width: 100%;
 	margin-top: 0px;
 }
+.banner {
+	background-color: #2D9AB7;
+	background-image: url(../images/parallax_mobile.png);
+	height: 400px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.empty_banner {
+	background-color: #2D9AB7;
+	background-image: url(../images/parallax_mobile.png);
+	height: 200px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
 .parallax {
 	text-align: center;
 	margin-top: 0px;
