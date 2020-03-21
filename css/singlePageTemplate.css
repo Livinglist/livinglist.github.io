@@ -396,6 +396,10 @@ nav ul li {
 	background-color: #2D9AB7;
 	background-image: none;
 }
+.empty_banner {
+	background-color: #2D9AB7;
+	background-image: none;
+}
 .tagline {
 	margin-top: 20px;
 	line-height: 22px;
