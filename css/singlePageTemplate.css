@@ -10,6 +10,11 @@ body {
 	font-style: normal;
 	font-weight: 200;
 }
+
+.app_description{
+	padding-left: 30%;
+	padding-right: 30%;
+}
 /* Container */
 .container {
 	width: 100%;
@@ -207,6 +212,12 @@ footer {
 	padding-top: 30px;
 	float: left;
 }
+.icon_footer_column {
+	width: 50%;
+	text-align: center;
+	padding-top: 30px;
+	float: left;
+}
 footer .footer_column h3 {
 	color: #0F0000;
 	text-align: center;
@@ -314,6 +325,11 @@ footer {
 
 /* Mobile */
 @media (max-width: 320px) {
+	.logo_footer_column {
+		width: 50%;
+		text-align: center;
+		float: right;
+	}
 	.circular--square {
 		width: 25%;
 		border-radius: 50%;
