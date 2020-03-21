@@ -396,22 +396,6 @@ nav ul li {
 	float: none;
 	text-align: center;
 }
-.banner {
-	background-color: #2D9AB7;
-	background-image: url(../images/parallax.png);
-	height: 400px;
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
-.empty_banner {
-	background-color: #2D9AB7;
-	background-image: url(../images/parallax.png);
-	height: 200px;
-	background-attachment: fixed;
-	background-size: cover;
-	background-repeat: no-repeat;
-}
 .tagline {
 	margin-top: 20px;
 	line-height: 22px;
