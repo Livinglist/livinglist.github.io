@@ -325,12 +325,6 @@ footer {
 
 /* Mobile */
 @media (max-width: 320px) {
-	.logo_footer_column {
-		width: 50%;
-		height: auto;
-		text-align: center;
-		float: left;
-	}
 	.circular--square {
 		width: 25%;
 		border-radius: 50%;
