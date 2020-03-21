@@ -327,8 +327,9 @@ footer {
 @media (max-width: 320px) {
 	.logo_footer_column {
 		width: 50%;
+		height: 100px;
 		text-align: center;
-		float: right;
+		float: left;
 	}
 	.circular--square {
 		width: 25%;
