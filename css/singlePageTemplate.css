@@ -11,10 +11,6 @@ body {
 	font-weight: 200;
 }
 
-.app_description{
-	padding-left: 30%;
-	padding-right: 30%;
-}
 /* Container */
 .container {
 	width: 100%;
@@ -218,6 +214,14 @@ footer {
 	padding-top: 30px;
 	float: left;
 }
+footer .icon_footer_column h3 {
+	color: #0F0000;
+	text-align: center;
+}
+footer .icon_footer_column p {
+	color: #0F0000;
+	background-color: #FFFFFF;
+}
 footer .footer_column h3 {
 	color: #0F0000;
 	text-align: center;
@@ -380,6 +384,10 @@ nav ul li {
 .footer_column {
 	width: 100%;
 	margin-top: 0px;
+}
+.icon_footer_column {
+	width: 10%;
+	height: 100px;
 }
 .banner {
 	background-color: #2D9AB7;
