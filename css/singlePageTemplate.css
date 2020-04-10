@@ -208,6 +208,14 @@ footer {
 	padding-top: 30px;
 	float: left;
 }
+
+.full_width_footer_column {
+	width: 100%;
+	text-align: center;
+	padding-top: 0px;
+	float: center;
+}
+
 .icon_footer_column {
 	width: 50%;
 	text-align: center;
