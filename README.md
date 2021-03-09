@@ -29,6 +29,7 @@ Check out my pinned repo for apps I made!
 
 ## Connect
 - [Portfolio<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/llvm.svg"/>][website]
+
 - [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]  
 
 
