@@ -50,14 +50,9 @@ Check out my pinned repo for apps I made!
 
 - [Resume<img align="left" alt="livinglist | Resume" width="22px" href="Jiaqi_Feng_resume.pdf" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/informatica.svg"/>][resume]
 
-<a href="Jiaqi_Feng_resume.pdf" download style="color: white;text-decoration:none;">
-        <div class="button">Resume</div>
-      </a>
-
-
 [github]: https://github.com/Livinglist
 [linkedin]: https://linkedin.com/in/jiaqifeng
-[Resume]: Jiaqi_Feng_resume.pdf
+[Resume]: https://livinglist.github.io/Jiaqi_Feng_resume.pdf
 
 ## Stat
 <img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
