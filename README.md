@@ -24,6 +24,8 @@ Check out my pinned repo for apps I made!
 
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
+- JavaScript (React) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+
 ### Side
 - C++ <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
 
