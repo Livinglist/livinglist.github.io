@@ -12,7 +12,7 @@ Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming
 
 Check out my pinned repo for apps I made!
 
-## Languages & Frameworks:
+## Languages:
 ### Main
 - Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
 
@@ -27,13 +27,29 @@ Check out my pinned repo for apps I made!
 
 - Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
+## Frameworks and other stuff:
+### Storage-related 
+*AWS, Firebase, MySQL, SQLite, CoreData*
+
+### Network-related 
+*HTTP, OAuth, HTML, CSS*
+
+### Design-pattern-related
+*MVC, Redux(RxDart, RxSwift...)*
+
+### Version-control-related
+*Git, SVN*
+
+### Team-collaboration-related
+*Scrum, Kanban*
+
 ## Connect
-- [Portfolio<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/llvm.svg"/>][website]
+- [GitHub<img align="left" alt="livinglist | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
-- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]  
+- [LinkedIn<img align="left" alt="livinglist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]  
 
 
-[website]: https://livinglist.github.io/
+[github]: https://github.com/Livinglist
 [linkedin]: https://linkedin.com/in/jiaqifeng
 
 ## Stat
