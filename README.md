@@ -80,8 +80,10 @@ Check out my pinned repo for apps I made!
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110511055-afff1600-80b8-11eb-8b1e-58954922fdaf.png">
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110460982-be7f0a80-8083-11eb-9180-1675e2c6b4fb.png">
   </p>
+  
   <p align="center">
   <a href="https://github.com/Livinglist/Tasky">Tasky</a><br>
+  <b>Tasky is a Kanban-based task management app that supports collaborations. Simply put, Tasky is just a much simplified Jira. You can use Tasky to manage your tasks using Kanban, add people to your project to collaborate, and add tags to tasks for better organization.</b><br>
     <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108316723-24a5fb00-7172-11eb-841c-a36a6dffb8b3.png"> 
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
   </p>
