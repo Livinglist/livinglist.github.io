@@ -12,7 +12,9 @@ Frustrated with Swift??!!
 Left with a broken heart.
 ```
 
-Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
+Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder.
+
+Currently pursuing BS degree in Software Engineering, interning at Proofpoint, and graduating in summer 2021.
 
 Check out my pinned repo for apps I made!
 
