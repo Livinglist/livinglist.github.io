@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+```
+Started with C#.
 
-You can use the [editor on GitHub](https://github.com/Livinglist/livinglist.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Fell in love with Dart.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Frustrated with Swift??!!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Left with a broken heart.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
 
-### Jekyll Themes
+Check out my pinned repo for apps I made!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Livinglist/livinglist.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Languages & Frameworks:
+### Main
+- Dart (Flutter)<img align="left" alt="flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dart.svg"/>
+- Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
-### Support or Contact
+### Side
+- C++ <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
+- C# (UWP) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
+- Go <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg"/>
+- Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Connect
+- [Portfolio<img align="left" alt="alfianlosari | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/llvm.svg"/>][website]
+- [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]  
+
+
+[website]: https://livinglist.github.io/
+[linkedin]: https://linkedin.com/in/jiaqifeng
+
+## Stat
+<img src="https://github-readme-stats.vercel.app/api?username=livinglist&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
+
+## Gallery
+<p align="center">
+  <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"> 
+  <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/90866236-75b26f00-e348-11ea-82e9-b8af9fd98b3d.png">
+<img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110435244-a5686080-8067-11eb-94d4-018f9514eb5c.png">
+<img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110429288-8665d080-805f-11eb-87c6-05994c18652e.png">
+    <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108316723-24a5fb00-7172-11eb-841c-a36a6dffb8b3.png"> 
+  <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
+<img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/109369447-3150e000-7851-11eb-8901-7a7fb244b5e3.png">
+    <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/109369446-3150e000-7851-11eb-9571-7917ae5eef78.png">
+<p/>
+
