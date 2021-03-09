@@ -83,8 +83,21 @@ Check out my pinned repo for apps I made!
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
   </p>
   <p align="center">
-  <a href="https://github.com/Livinglist/Churu">Churu</a><br>
+  <a href="https://github.com/Livinglist/Jiba">Jiba</a><br>
 <img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/109369447-3150e000-7851-11eb-8901-7a7fb244b5e3.png">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/109369446-3150e000-7851-11eb-9571-7917ae5eef78.png">
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/Livinglist/Churu">Churu</a><br>
+  <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/109263293-e0d97400-77b7-11eb-9a6a-70537141fdbf.png">
+<img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/109263311-e5059180-77b7-11eb-9226-4a0fe85dba93.png"> 
+  </p>
+
+<p align="center">
+  <a href="https://github.com/Livinglist/Kaby">Kaby</a><br>
+  <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110514408-1cc7df80-80bc-11eb-9600-65c3f0c218d5.png">
+  <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110514405-1c2f4900-80bc-11eb-8c7e-8e3b26e11176.png">
+  </p>
 
