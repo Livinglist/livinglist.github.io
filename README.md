@@ -47,7 +47,7 @@ Check out my pinned repo for apps I made!
 ### Team-collaboration-related
 *Scrum, Kanban*
 
-## Connect
+## More
 - [GitHub<img align="left" alt="livinglist | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>][github]
 
 - [LinkedIn<img align="left" alt="livinglist | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
