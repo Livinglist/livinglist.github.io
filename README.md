@@ -7,6 +7,10 @@ Frustrated with Swift??!!
 
 Left with a broken heart.
 ```
+<p align="center">
+  <img align="center" src="images/profile_picture.png" width="360">
+</p>
+
 
 Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
 
@@ -67,5 +71,5 @@ Check out my pinned repo for apps I made!
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
 <img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/109369447-3150e000-7851-11eb-8901-7a7fb244b5e3.png">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/109369446-3150e000-7851-11eb-9571-7917ae5eef78.png">
-<p/>
+</p>
 
