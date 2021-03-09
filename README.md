@@ -69,12 +69,14 @@ Check out my pinned repo for apps I made!
 
 <p align="center">
   <a href="https://github.com/Livinglist/Manji">Manji</a><br>
-  <b>Manji is a Japanese kanji dictionary packed with tons of helpful features. From basic functionalites like dynamically generated quiz, user-generated data synchronization backed by Firebase, to high level features such as hand-written kanji recognition powered by Tensorflow Lite, image kanji extraction driven by Google Cloud OCR API. You will certainly be surprised by things you can find in this app. </b><br>
+  <b>Manji is a Japanese kanji dictionary packed with tons of helpful features. From basic functionalites like kanji stroke animation, dynamically generated quiz, user-generated data synchronization backed by Firebase, to high level features such as hand-written kanji recognition powered by Tensorflow Lite, image kanji extraction driven by Google Cloud OCR API. You will certainly be surprised by things you can find in this app. </b><br>
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/90493962-d5660b80-e0f7-11ea-9971-dba0951fd60e.png"> 
   <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/90866236-75b26f00-e348-11ea-82e9-b8af9fd98b3d.png">
   </p>
+  
   <p align="center">
 <a href="https://github.com/Livinglist/Dumbbell">Dumbbell</a><br>
+  <b>Dumbbell is a workout log app designed for bodybuilders. You can create and customize your own workout routines and keep track of them with ease. Sign in via Gmail or Apple ID so that you can retrive your data in case you lost them.</b><br>
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110511055-afff1600-80b8-11eb-8b1e-58954922fdaf.png">
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110460982-be7f0a80-8083-11eb-9180-1675e2c6b4fb.png">
   </p>
