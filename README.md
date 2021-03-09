@@ -35,10 +35,10 @@ Check out my pinned repo for apps I made!
 
 ## Frameworks and other stuff:
 ### Storage-related 
-*AWS, Firebase, MySQL, SQLite, CoreData*
+*AWS, Firebase, MySQL, SQLite, CoreData, JSON*
 
 ### Network-related 
-*HTTP, OAuth, HTML, CSS*
+*HTTP, OAuth, HTML, CSS, XML, REST*
 
 ### Design-pattern-related
 *MVC, Redux(RxDart, RxSwift...)*
