@@ -1,3 +1,7 @@
+<p align="center">
+  <img align="center" src="images/profile_picture.png" width="360">
+</p>
+
 ```
 Started with C#.
 
@@ -7,10 +11,6 @@ Frustrated with Swift??!!
 
 Left with a broken heart.
 ```
-<p align="center">
-  <img align="center" src="images/profile_picture.png" width="360">
-</p>
-
 
 Hi there. I'm Jiaqi Feng, a software engineer, mobile app developer, programming language explorer, and bodybuilder...
 
