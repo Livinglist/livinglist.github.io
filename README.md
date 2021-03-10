@@ -75,16 +75,16 @@ Check out my pinned repo for apps I made!
   <img width="360" alt="Screen Shot 2020-08-20 at 6 16 26 PM" src="https://user-images.githubusercontent.com/7277662/90866236-75b26f00-e348-11ea-82e9-b8af9fd98b3d.png">
   </p>
   
-  <p><a href="https://github.com/Livinglist/Dumbbell"><b>Dumbbell</b></a></p>
+  <p align="center"><a href="https://github.com/Livinglist/Dumbbell"><b>Dumbbell</b></a></p>
   <p align="center">Dumbbell is a workout log app designed for bodybuilders. You can create and customize your own workout routines and keep track of them with ease. Sign in via Gmail or Apple ID so that you can retrive your data in case you lost them.</p><br>
   <p align="center">
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110511055-afff1600-80b8-11eb-8b1e-58954922fdaf.png">
 <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110460982-be7f0a80-8083-11eb-9180-1675e2c6b4fb.png">
   </p>
   
+  <p align="center"><a href="https://github.com/Livinglist/Tasky"><b>Tasky</b></a></p>
+  <p align="center">Tasky is a Kanban-based task management app that supports collaborations. Simply put, Tasky is just a much simplified Jira. You can use Tasky to manage your tasks using Kanban, add people to your project to collaborate, and add tags to tasks for better organization.</p>
   <p align="center">
-  <a href="https://github.com/Livinglist/Tasky">Tasky</a><br>
-  <b>Tasky is a Kanban-based task management app that supports collaborations. Simply put, Tasky is just a much simplified Jira. You can use Tasky to manage your tasks using Kanban, add people to your project to collaborate, and add tags to tasks for better organization.</b><br>
     <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108316723-24a5fb00-7172-11eb-841c-a36a6dffb8b3.png"> 
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
   </p>
