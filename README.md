@@ -89,7 +89,7 @@ Check out my pinned repo for apps I made!
   <img width="360" alt="Screen Shot 2020-03-03 at 1 22 57 PM" src="https://user-images.githubusercontent.com/7277662/108588467-3a502780-730e-11eb-87f5-0731f2b3b922.png"> 
   </p>
   <p align="center">
-  <a href="https://github.com/Livinglist/Jiba">Jiba</a><br>
+  <a href="https://github.com/Livinglist/Yanji">Yanji</a><br>
 <img width="360" alt="Screen Shot 2020-08-20 at 6 21 33 PM" src="https://user-images.githubusercontent.com/7277662/110915127-1ad46b00-82cc-11eb-9e63-74bee0eae34e.png">
     <img width="360" alt="Screen Shot 2020-03-03 at 1 25 18 PM" src="https://user-images.githubusercontent.com/7277662/110915060-0d1ee580-82cc-11eb-9a77-542ae355d855.png">
 </p>
