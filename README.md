@@ -40,10 +40,10 @@ Check out my pinned repo for apps I made!
 *AWS, Firebase, MySQL, SQLite, CoreData, JSON*
 
 ### Network-related 
-*HTTP, OAuth, HTML, CSS, XML, REST*
+*HTTP, OAuth, HTML, CSS, XML, REST, Kafka, Spring Boot*
 
 ### Design-pattern-related
-*MVC, Redux(RxDart, RxSwift...)*
+*MVC, MVVN, Redux(RxDart, RxSwift...)*
 
 ### Version-control-related
 *Git, SVN*
