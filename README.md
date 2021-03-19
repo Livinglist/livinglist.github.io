@@ -78,8 +78,8 @@ Check out my pinned repo for apps I made!
   <p align="center"><a href="https://github.com/Livinglist/Dumbbell"><b>Dumbbell</b></a></p>
   <p align="center">Dumbbell is a workout log app designed for bodybuilders. You can create and customize your own workout routines and keep track of them with ease. Sign in via Gmail or Apple ID so that you can retrive your data in case you lost them.</p><br>
   <p align="center">
-<img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110511055-afff1600-80b8-11eb-8b1e-58954922fdaf.png">
-<img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/110460982-be7f0a80-8083-11eb-9180-1675e2c6b4fb.png">
+  <img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/111752809-613d4300-8853-11eb-8ec5-030f5d639f2c.png">
+<img width="360" alt="Screen Shot 2020-08-20 at 5 50 28 PM" src="https://user-images.githubusercontent.com/7277662/111752805-60a4ac80-8853-11eb-85d6-9404bc04afe2.png">
   </p>
   
   <p align="center"><a href="https://github.com/Livinglist/Tasky"><b>Tasky</b></a></p>
