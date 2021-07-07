@@ -24,16 +24,16 @@ Check out my pinned repo for apps I made!
 
 - Swift <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
-- JavaScript (React, React Native) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
+- C# <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
 
 ### Side
 - C++ <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg"/>
 
-- C# (UWP) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg"/>
-
 - Go <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg"/>
 
 - Python (Flask)<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg"/>
+
+- JavaScript (React, React Native) <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
 
 ## Frameworks and other stuff:
 ### Storage-related 
